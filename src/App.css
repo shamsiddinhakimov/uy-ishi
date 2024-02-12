@@ -1,0 +1,13 @@
+td,
+th {
+  padding: 20px;
+  border: #000 1px solid !important;
+}
+body {
+  color: #000;
+}
+
+table {
+  border: #000 4px solid !important;
+  border-radius: 12px !important;
+}
